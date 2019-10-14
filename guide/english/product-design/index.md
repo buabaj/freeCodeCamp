@@ -17,6 +17,9 @@ User Research, Data Analysis, UX and Interaction Design, Graphic and UI Design, 
  <a href='https://www.edx.org/course/product-design-the-delft-design-approach-0' target='_blank' rel='nofollow'>Product Design: The Delft Design Approach</a>
 [edX] (https://www.edx.org/)
 
+<a href='https://www.pluralsight.com/courses/patterns-library' target='_blank' rel='nofollow'>Design Patterns Library</a>
+[Pluralsight] (https://www.pluralsight.com/courses/patterns-library)
+
  ###### Youtube:
 <a href='https://www.youtube.com/watch?v=XRd6Ddn4ZSY' target='_blank' rel='nofollow'>Netflix Product Designer | Navin Iyengar | Design Like a Scientist</a>
 [Awwwards Youtube Channel] (https://www.youtube.com/channel/UCYWGYef22gx8PaXZMLHAQsw)
